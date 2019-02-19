@@ -1,17 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="exports" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
       <mapping pattern="LandscapeContainer" type="PLAIN_TEXT" />
       <mapping pattern="FileUtils" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.staging" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="drc" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="drc" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
