@@ -5,6 +5,7 @@
       <mapping pattern="S3UploadedEvent" type="JavaScript" />
       <mapping pattern="fonts_th" type="PLAIN_TEXT" />
       <mapping pattern="_scrollbar" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
