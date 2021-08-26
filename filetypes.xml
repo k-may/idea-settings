@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="CloseSVG.svelte" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="CloseSVG.svelte" type="AUTO_DETECTED" />
       <mapping pattern="S3UploadedEvent" type="JavaScript" />
-      <mapping pattern="fonts_th" type="PLAIN_TEXT" />
       <mapping pattern="_scrollbar" type="PLAIN_TEXT" />
+      <mapping pattern="fonts_th" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
