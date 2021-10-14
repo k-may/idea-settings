@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="S3UploadedEvent" type="JavaScript" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="_scrollbar" type="PLAIN_TEXT" />
+      <mapping pattern="fonts_th" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
+    </extensionMap>
+  </component>
+</application>
