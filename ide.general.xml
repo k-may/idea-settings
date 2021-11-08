@@ -9,6 +9,5 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
-    <entry key="ide.images.show.chessboard" value="true" />
   </component>
 </application>
