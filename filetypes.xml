@@ -9,6 +9,7 @@
       <mapping pattern=".cp-env" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="gltf" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
       <removed_mapping ext="graphql" approved="true" type="PLAIN_TEXT" />
