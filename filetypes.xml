@@ -6,6 +6,7 @@
       <mapping pattern="S3UploadedEvent" type="JavaScript" />
       <mapping pattern="_scrollbar" type="PLAIN_TEXT" />
       <mapping pattern="fonts_th" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".cp-env" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
