@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="CloseSVG.svelte" type="AUTO_DETECTED" />
+      <mapping ext="geojson" type="JSON" />
+      <mapping pattern="S3UploadedEvent" type="JavaScript" />
+      <mapping pattern="_scrollbar" type="PLAIN_TEXT" />
+      <mapping pattern="fonts_th" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".cp_env" type="PLAIN_TEXT" />
+      <mapping pattern=".cp-env" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="gltf" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
+      <removed_mapping ext="graphql" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="s53.naranjatec.com" id="da3b105c-8b54-4cc1-8fa9-198a2664185c" keyPath="C:\Users\kevma\.ssh\id_rsa" port="2004" nameFormat="DESCRIPTIVE" username="advclb" />
+    </configs>
+  </component>
+</application>
